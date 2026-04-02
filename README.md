@@ -19,14 +19,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albraanawara&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albraanawara&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 Top Projects
 - 🔗 [Portfolio Website](https://albraanawara.github.io/portfolio/)
 - 🔗 [Coffee Shop JS Project](https://albraanawara.github.io/es6-project/)
